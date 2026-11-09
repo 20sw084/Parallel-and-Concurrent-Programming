@@ -216,12 +216,3 @@ public class trapezoidIntegration {
         }
     }
 }
- 
- 
- 
- 
- 
- 
- 
- 
- 
